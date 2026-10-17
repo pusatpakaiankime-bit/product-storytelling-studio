@@ -1,0 +1,16 @@
+Use the supplied Scene 3 image as the exact opening state. Vertical 9:16, total 8 seconds. Two shots: 0–5 seconds and 5–8 seconds. Preserve the woman's face, beige hijab, black inner sleeves and reference kaftan: pale base, grey ornaments, black scrolling motifs, red details and red-black borders.
+
+OPENING OBJECT STATE:
+Her left hand already holds the black handbag. Her right hand is beside the single smartphone lying flat, screen UP on the cabinet. Keep the same phone, case, thickness and screen/back distinction.
+
+SHOT 1, 0–5 seconds:
+0–1.5s: Show a continuous, readable pickup. Her right thumb contacts one side edge while the other fingers secure the opposite edge and support the back as it lifts clear of the cabinet. Only then tilt the phone smoothly from flat to upright, screen toward her face, top edge up. Use a small natural wrist movement, not an end-over-end flip. Fingers maintain believable contact; the phone stays rigid and does not slide through the hand.
+1.5–4.5s: Hold the phone steadily around upper-chest height, screen facing her, bottom edge below and near her mouth. Her eyes look at the screen. With no extra tapping gesture, she speaks a short reply in Malaysian Malay: “Sekejap, saya turun sekarang.”
+4.5–5s: She finishes and lowers the phone slightly, still in her RIGHT hand. Her LEFT hand keeps the handbag at her side throughout. No hand swap or putting the phone into the bag.
+
+SHOT 2, 5–8 seconds:
+Use an explicit time-ellipsis cut to the hallway, after the bedroom door has already been opened off-screen. The door is OPEN from the first frame of this shot. She walks through it with the same phone still in her RIGHT hand and handbag in her LEFT. Gently retreat to show the dress front and moving hem. Leave the door open; no opening, closing, bag storage or new task in this shot.
+
+Neutral product lighting, warm room light and cool dusk surroundings. Sound: short voice reply, fabric and footsteps. No music, extra speech, readable interface text or watermark. Keep the garment pattern stable.
+
+Priority: physically readable hand-object contact and correct phone orientation over decorative camera movement.

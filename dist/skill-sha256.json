@@ -1,0 +1,10 @@
+{
+  "SKILL.md": "6cb63787f239f3a3cd14db9a3fc35ade7986a5af59f4e757e0389cacceba8892",
+  "agents/openai.yaml": "d4a1df11c248bec1c9533b10264818170812cec5d0c89d833ca2d4eba3f28fa0",
+  "references/creative-controls.md": "7bc8db8e38e5d861501866287a5f9fedbc3869c578539cbcde4bef59d38cdef2",
+  "references/omni-prompt-writing.md": "4710aced74182a358156cc06c0ae0c9de378084110b9c2cd194ac445a8b362f5",
+  "references/option-catalog.json": "0a84e5ec5976791d7590d7460ca5d99daa414b97742cac138e4cc2ac7ff7d9a0",
+  "references/output-contract.md": "41f71b3a9e73aaf3b8ef1edfb1a01826db6b1543fd937dfa3ea6257825130d29",
+  "references/story-modes.md": "f2c854fdd9eaa550af8cb5efa69e8b044d829beb14ad8841141f3a15b1db3766",
+  "references/tone-presets.md": "b79e2b32e52c1b5063181a904d31b7bad6d1554090aacfc4d4774cffbc6c1edc"
+}

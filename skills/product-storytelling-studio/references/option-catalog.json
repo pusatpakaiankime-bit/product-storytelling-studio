@@ -1,0 +1,495 @@
+{
+  "source": "https://studiova.my/storytelling",
+  "observed_date": "2026-10-12",
+  "notice": "Historical UI labels and option values only. Not defaults, backend templates, current provider capabilities or live prices. Interpret using creative-controls.md.",
+  "groups": [
+    {
+      "label": "VISUAL STYLE",
+      "options": [
+        {
+          "label": "iPhone / Editorial Realism",
+          "value": "iphone"
+        },
+        {
+          "label": "Cinematic Realistic",
+          "value": "cinematic"
+        },
+        {
+          "label": "Pixar / 3D Animation",
+          "value": "pixar"
+        },
+        {
+          "label": "Anime / Ghibli",
+          "value": "anime"
+        },
+        {
+          "label": "Cyberpunk / Neon",
+          "value": "cyberpunk"
+        },
+        {
+          "label": "🎙️ PiP / Talent Narrator + Realistic BG",
+          "value": "pip_narrator"
+        },
+        {
+          "label": "🎬 PiP / Talent + 3D Animated BG",
+          "value": "pip_3d_bg"
+        },
+        {
+          "label": "🧬 PiP / Talent + 3D Anatomy BG",
+          "value": "pip_anatomy"
+        },
+        {
+          "label": "Others / Custom",
+          "value": "custom"
+        }
+      ]
+    },
+    {
+      "label": "GENRE",
+      "options": [
+        {
+          "label": "General / Free",
+          "value": "general"
+        },
+        {
+          "label": "Music Video / Performance",
+          "value": "music_video"
+        },
+        {
+          "label": "Horror / Thriller",
+          "value": "horror"
+        },
+        {
+          "label": "Action / Fast Paced",
+          "value": "action"
+        },
+        {
+          "label": "Emotional Drama",
+          "value": "drama"
+        },
+        {
+          "label": "Documentary",
+          "value": "documentary"
+        },
+        {
+          "label": "Commercial / TVC",
+          "value": "commercial"
+        },
+        {
+          "label": "🎙️ Podcast / Studio Talk",
+          "value": "podcast"
+        },
+        {
+          "label": "🎤 Interview / Vox Pop",
+          "value": "interview"
+        }
+      ]
+    },
+    {
+      "label": "ASPECT RATIO",
+      "options": [
+        {
+          "label": "Cinematic (16:9)",
+          "value": "16:9"
+        },
+        {
+          "label": "Vertical (9:16)",
+          "value": "9:16"
+        },
+        {
+          "label": "Square (1:1)",
+          "value": "1:1"
+        }
+      ]
+    },
+    {
+      "label": "LANGUAGE",
+      "options": [
+        {
+          "label": "Malay (Malaysia)",
+          "value": "ms"
+        },
+        {
+          "label": "English",
+          "value": "en"
+        }
+      ]
+    },
+    {
+      "label": "🎬 CINEMATIC LOOK",
+      "options": [
+        {
+          "label": "🎬 AI Decides",
+          "value": "auto"
+        },
+        {
+          "label": "🕷️ Marvel / MCU",
+          "value": "marvel_mcu"
+        },
+        {
+          "label": "🤖 Michael Bay (Transformers)",
+          "value": "michael_bay"
+        },
+        {
+          "label": "🌌 Christopher Nolan (Interstellar)",
+          "value": "nolan"
+        },
+        {
+          "label": "🌀 Inception / Mind-Bending",
+          "value": "inception"
+        },
+        {
+          "label": "🔫 John Wick / Neo-noir Action",
+          "value": "john_wick"
+        },
+        {
+          "label": "🏎️ Fast & Furious",
+          "value": "fast_furious"
+        },
+        {
+          "label": "🌿 James Cameron (Avatar)",
+          "value": "avatar"
+        },
+        {
+          "label": "💥 Mad Max: Fury Road",
+          "value": "mad_max"
+        },
+        {
+          "label": "🎯 Mission Impossible",
+          "value": "mission_impossible"
+        },
+        {
+          "label": "✈️ Top Gun: Maverick",
+          "value": "top_gun"
+        },
+        {
+          "label": "🦕 Spielberg / Jurassic Park",
+          "value": "jurassic"
+        },
+        {
+          "label": "🟡 Wes Anderson",
+          "value": "wes_anderson"
+        },
+        {
+          "label": "🌸 Wong Kar-wai (In the Mood)",
+          "value": "wong_kar_wai"
+        },
+        {
+          "label": "🏠 Bong Joon-ho (Parasite)",
+          "value": "parasite"
+        },
+        {
+          "label": "😱 A24 Horror (Hereditary / Midsommar)",
+          "value": "a24_horror"
+        },
+        {
+          "label": "🎭 Classic Film Noir",
+          "value": "film_noir"
+        },
+        {
+          "label": "🇨🇳 Chinese Drama (C-Drama)",
+          "value": "chinese_drama"
+        },
+        {
+          "label": "🇰🇷 Korean Drama (K-Drama)",
+          "value": "korean_drama"
+        },
+        {
+          "label": "🎵 Bollywood Masala",
+          "value": "bollywood"
+        },
+        {
+          "label": "⚡ Anime Live-Action",
+          "value": "anime_live"
+        },
+        {
+          "label": "🗡️ Kurosawa / Samurai Epic",
+          "value": "kurosawa"
+        },
+        {
+          "label": "📱 TikTok / Viral UGC",
+          "value": "tiktok_ugc"
+        },
+        {
+          "label": "🍎 iPhone Cinematic Mode",
+          "value": "iphone_cinematic"
+        },
+        {
+          "label": "🎤 Hip-hop / Rap Music Video",
+          "value": "music_video_rap"
+        },
+        {
+          "label": "💜 K-Pop Music Video",
+          "value": "kpop_mv"
+        },
+        {
+          "label": "🏆 Sports / ESPN Broadcast",
+          "value": "sports_espn"
+        },
+        {
+          "label": "🎞️ Anamorphic Widescreen",
+          "value": "anamorphic"
+        },
+        {
+          "label": "📹 Documentary / Cinéma Vérité",
+          "value": "documentary"
+        },
+        {
+          "label": "📽️ Vintage Super 8mm",
+          "value": "vintage_8mm"
+        },
+        {
+          "label": "📼 VHS / Retro 90s",
+          "value": "vhs_retro"
+        }
+      ]
+    },
+    {
+      "label": "CAMERA MOTION",
+      "options": [
+        {
+          "label": "Auto Choice",
+          "value": "auto"
+        },
+        {
+          "label": "FPV Drone",
+          "value": "fpv"
+        },
+        {
+          "label": "Long Take / Glambot",
+          "value": "continuous"
+        },
+        {
+          "label": "360 Orbit",
+          "value": "orbit"
+        },
+        {
+          "label": "Tracking / Follow Cam",
+          "value": "tracking"
+        },
+        {
+          "label": "Whip Pan / Snap Cut",
+          "value": "whip_pan"
+        },
+        {
+          "label": "Shaky Handheld",
+          "value": "handheld"
+        },
+        {
+          "label": "Low Angle Hero (Worm Eye)",
+          "value": "low_angle"
+        },
+        {
+          "label": "Bird's Eye / Top-Down",
+          "value": "birds_eye"
+        },
+        {
+          "label": "Dutch Tilt (Tension)",
+          "value": "dutch_tilt"
+        },
+        {
+          "label": "Over-the-Shoulder",
+          "value": "over_shoulder"
+        },
+        {
+          "label": "Extreme Close-Up (ECU)",
+          "value": "ecu"
+        },
+        {
+          "label": "Rack Focus Pull",
+          "value": "rack_focus"
+        },
+        {
+          "label": "Dolly Zoom (Vertigo)",
+          "value": "dolly"
+        }
+      ]
+    },
+    {
+      "label": "LIGHTING",
+      "options": [
+        {
+          "label": "Auto Lighting",
+          "value": "auto"
+        },
+        {
+          "label": "Golden Hour",
+          "value": "golden"
+        },
+        {
+          "label": "Film Noir",
+          "value": "noir"
+        },
+        {
+          "label": "Natural Light",
+          "value": "natural"
+        },
+        {
+          "label": "Neon / Cyber",
+          "value": "neon"
+        }
+      ]
+    },
+    {
+      "label": "SKIN TEXTURE",
+      "options": [
+        {
+          "label": "Realistic",
+          "value": "realistic"
+        },
+        {
+          "label": "Soft / TVC",
+          "value": "soft"
+        },
+        {
+          "label": "Imperfect / Raw",
+          "value": "raw"
+        }
+      ]
+    },
+    {
+      "label": "SCENE COUNT",
+      "options": [
+        {
+          "label": "1 Scenes",
+          "value": "1"
+        },
+        {
+          "label": "2 Scenes",
+          "value": "2"
+        },
+        {
+          "label": "3 Scenes",
+          "value": "3"
+        },
+        {
+          "label": "4 Scenes",
+          "value": "4"
+        },
+        {
+          "label": "5 Scenes",
+          "value": "5"
+        },
+        {
+          "label": "6 Scenes",
+          "value": "6"
+        },
+        {
+          "label": "8 Scenes",
+          "value": "8"
+        },
+        {
+          "label": "10 Scenes",
+          "value": "10"
+        },
+        {
+          "label": "12 Scenes",
+          "value": "12"
+        },
+        {
+          "label": "15 Scenes",
+          "value": "15"
+        },
+        {
+          "label": "20 Scenes",
+          "value": "20"
+        }
+      ]
+    },
+    {
+      "label": "SHOT DENSITY",
+      "options": [
+        {
+          "label": "1 Shot",
+          "value": "1 Shot"
+        },
+        {
+          "label": "2 Shots",
+          "value": "2 Shots"
+        },
+        {
+          "label": "3 Shots",
+          "value": "3 Shots"
+        },
+        {
+          "label": "4 Shots",
+          "value": "4 Shots"
+        },
+        {
+          "label": "5 Shots",
+          "value": "5 Shots"
+        },
+        {
+          "label": "6 Shots",
+          "value": "6 Shots"
+        },
+        {
+          "label": "7 Shots",
+          "value": "7 Shots"
+        },
+        {
+          "label": "8 Shots",
+          "value": "8 Shots"
+        },
+        {
+          "label": "9 Shots",
+          "value": "9 Shots"
+        },
+        {
+          "label": "10 Shots",
+          "value": "10 Shots"
+        }
+      ]
+    },
+    {
+      "label": "DURATION",
+      "options": [
+        {
+          "label": "Auto / Flexible",
+          "value": "auto"
+        },
+        {
+          "label": "Standard / Runway (4s)",
+          "value": "4s"
+        },
+        {
+          "label": "Grok / Gen-3 (6s)",
+          "value": "6s"
+        },
+        {
+          "label": "Flow / Veo / Kling (8s)",
+          "value": "8s"
+        },
+        {
+          "label": "Sora / Luma (10s)",
+          "value": "10s"
+        }
+      ]
+    },
+    {
+      "label": "VIDEO MODEL",
+      "options": [
+        {
+          "label": "Veo 3.1 ⚡ 60-70cr",
+          "value": "veo3"
+        },
+        {
+          "label": "Seedance 2 (Flexible)",
+          "value": "seedance"
+        },
+        {
+          "label": "Grok Imagine (max 10s)",
+          "value": "grok"
+        },
+        {
+          "label": "Kling 1.5 (max 5s)",
+          "value": "kling15"
+        },
+        {
+          "label": "Runway Gen-3 (max 10s)",
+          "value": "runway_gen3"
+        }
+      ]
+    }
+  ]
+}

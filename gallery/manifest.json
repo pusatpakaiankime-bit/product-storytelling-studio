@@ -1,0 +1,318 @@
+{
+  "title": "31 种电影观感 · 样品图库",
+  "created": "2026-10-13",
+  "generator": "Codex built-in image generation",
+  "note": "独立生成的视觉参考，并非 Studiova 后台样张。每种风格只是一种解读；静态图不代表视频动作、剪辑或音效。",
+  "samples": [
+    {
+      "index": 1,
+      "key": "auto",
+      "prompt": "Create a single photorealistic 9:16 vertical cinematic style reference photograph. This is the AUTO / AI DECIDES baseline for a comparison series. Invent one adult female fashion model about 30, dark chin-length bob hair, natural face, cream long-sleeve blouse tucked into burgundy wide-leg trousers, plain black small shoulder bag. She stands in three-quarter full-length view in the doorway of a retro corner cafe on a city street, one hand loosely holding the bag strap, looking slightly beside camera, thoughtful neutral expression. Pale tiled cafe frontage, warm amber interior through glass, pavement with subtle after-rain reflections. Clean balanced modern cinematic realism, neutral readable skin and outfit, restrained warm/cool separation, ordinary dusk, medium focal length, coherent anatomy. Show head to shoes with room around subject. No text, captions, typography, brands or watermark. No collage. Baseline should be natural and not excessively stylized; later samples will change light/composition/grading but keep this same identity, outfit and location.",
+      "name": "AI Decides",
+      "zh": "自动选择",
+      "category": "日常 / 自然",
+      "features": "平衡曝光、自然色彩、适度景深",
+      "file": "images/01-auto.png"
+    },
+    {
+      "index": 2,
+      "key": "marvel_mcu",
+      "prompt": "Create ONE 9:16 vertical sample image for a cinematic-look comparison library: Marvel / MCU. Use the supplied baseline photograph as identity, wardrobe and location reference. Keep the same adult woman, bob haircut, cream blouse, burgundy wide-leg trousers, black shoulder bag and same recognizable tiled corner cafe. This is a new photograph with meaningfully different cinematic treatment, not a collage. You may recompose camera and vary time of day/lighting for the requested look. Preserve recognizable person and outfit. No words, titles, labels, logos or watermarks in the image. STYLE DIRECTION: A polished superhero-blockbuster photographic look without any superheroes: slightly low heroic camera, luminous cool blue sky and warm golden edge light, crisp saturated commercial colours, strong subject separation, fine atmospheric depth, confident still posture. No costumes or added props. Make the visual distinction clear and intentional.",
+      "name": "Marvel / MCU",
+      "zh": "商业英雄大片",
+      "category": "大片 / 动作",
+      "features": "低机位、轮廓光、鲜明反差",
+      "file": "images/02-marvel_mcu.png"
+    },
+    {
+      "index": 3,
+      "key": "michael_bay",
+      "prompt": "Create ONE 9:16 vertical sample image for a cinematic-look comparison library: Michael Bay (Transformers). Use the supplied baseline photograph as identity, wardrobe and location reference. Keep the same adult woman, bob haircut, cream blouse, burgundy wide-leg trousers, black shoulder bag and same recognizable tiled corner cafe. This is a new photograph with meaningfully different cinematic treatment, not a collage. You may recompose camera and vary time of day/lighting for the requested look. Preserve recognizable person and outfit. No words, titles, labels, logos or watermarks in the image. STYLE DIRECTION: A distinctly high-energy blockbuster fashion still: low wide-angle view, blazing golden backlight skimming hair, restrained warm lens flare, cyan shadows and amber highlights, diagonal architectural lines, breeze in bob and blouse, sharp face. No explosion or robots. Make the visual distinction clear and intentional.",
+      "name": "Michael Bay (Transformers)",
+      "zh": "强光动势",
+      "category": "大片 / 动作",
+      "features": "低广角、金色逆光、耀斑",
+      "file": "images/03-michael_bay.png"
+    },
+    {
+      "index": 4,
+      "key": "nolan",
+      "prompt": "Create ONE 9:16 vertical sample image for a cinematic-look comparison library: Christopher Nolan (Interstellar). Use the supplied baseline photograph as identity, wardrobe and location reference. Keep the same adult woman, bob haircut, cream blouse, burgundy wide-leg trousers, black shoulder bag and same recognizable tiled corner cafe. This is a new photograph with meaningfully different cinematic treatment, not a collage. You may recompose camera and vary time of day/lighting for the requested look. Preserve recognizable person and outfit. No words, titles, labels, logos or watermarks in the image. STYLE DIRECTION: A grounded large-format dramatic film still: wider environmental framing with the same woman slightly smaller in monumental cafe architecture, muted steel-blue and earth palette, deep dimensional shadows, realistic textures, sober expression and natural overcast skylight, crisp large-format realism. Make the visual distinction clear and intentional.",
+      "name": "Christopher Nolan (Interstellar)",
+      "zh": "冷峻空间",
+      "category": "大片 / 动作",
+      "features": "冷灰色、厚重反差、空间尺度",
+      "file": "images/04-nolan.png"
+    },
+    {
+      "index": 5,
+      "key": "inception",
+      "prompt": "Create ONE 9:16 vertical sample image for a cinematic-look comparison library: Inception / Mind-Bending. Use the supplied baseline photograph as identity, wardrobe and location reference. Keep the same adult woman, bob haircut, cream blouse, burgundy wide-leg trousers, black shoulder bag and same recognizable tiled corner cafe. This is a new photograph with meaningfully different cinematic treatment, not a collage. You may recompose camera and vary time of day/lighting for the requested look. Preserve recognizable person and outfit. No words, titles, labels, logos or watermarks in the image. STYLE DIRECTION: A psychological architectural puzzle film still: same cafe doorway shot from a subtly tilted perspective, strong converging geometric lines, repeated glass reflections, cool slate palette and warm isolated interior, layered depth and uneasy controlled symmetry. Keep architecture physically plausible, no folding buildings or duplicated woman. Make the visual distinction clear and intentional.",
+      "name": "Inception / Mind-Bending",
+      "zh": "几何悬疑",
+      "category": "大片 / 动作",
+      "features": "几何线条、倾斜视角、空间张力",
+      "file": "images/05-inception.png"
+    },
+    {
+      "index": 6,
+      "key": "john_wick",
+      "prompt": "Create ONE 9:16 vertical sample image for a cinematic-look comparison library: John Wick / Neo-noir Action. Use the supplied baseline photograph as identity, wardrobe and location reference. Keep the same adult woman, bob haircut, cream blouse, burgundy wide-leg trousers, black shoulder bag and same recognizable tiled corner cafe. This is a new photograph with meaningfully different cinematic treatment, not a collage. You may recompose camera and vary time of day/lighting for the requested look. Preserve recognizable person and outfit. No words, titles, labels, logos or watermarks in the image. STYLE DIRECTION: Neo-noir night fashion still: same cafe after dark with deep inky shadows, vivid cyan rim light from street and magenta/red practical light through window, glossy wet reflections, controlled hard contrast, confident still figure, original outfit recognizable. No weapons. Make the visual distinction clear and intentional.",
+      "name": "John Wick / Neo-noir Action",
+      "zh": "霓虹黑色电影",
+      "category": "大片 / 动作",
+      "features": "青紫霓虹、黑位、湿地反射",
+      "file": "images/06-john_wick.png"
+    },
+    {
+      "index": 7,
+      "key": "fast_furious",
+      "prompt": "Create ONE 9:16 vertical cinematic look sample: Fast & Furious. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially for the requested look, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE: Urban high-speed commercial-film aesthetic: same woman taking one purposeful step outside cafe, low angled camera, sodium amber and electric blue street lighting, distant headlight bokeh/light streaks on street, crisp subject and directional environmental blur, glossy energetic colour. Do not change outfit or add a car as main subject.",
+      "name": "Fast & Furious",
+      "zh": "都市速度感",
+      "category": "大片 / 动作",
+      "features": "低角度、街灯光轨、动势",
+      "file": "images/07-fast_furious.png"
+    },
+    {
+      "index": 8,
+      "key": "avatar",
+      "prompt": "Create one 9:16 photorealistic fashion photo using the reference for the same woman, cream blouse, burgundy trousers, black bag and cafe. Reimagine the lighting with lush green plants around the cafe, emerald foliage reflected in windows, luminous soft sunbeams through humid air, rich natural depth. Human skin remains natural. Keep the cafe recognizable and outfit unchanged. No text or watermark.",
+      "name": "James Cameron (Avatar)",
+      "zh": "自然奇观",
+      "category": "大片 / 动作",
+      "features": "青绿层次、体积光、自然纵深",
+      "file": "images/08-avatar.png"
+    },
+    {
+      "index": 9,
+      "key": "mad_max",
+      "prompt": "Create ONE 9:16 vertical cinematic look sample: Mad Max: Fury Road. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially for the requested look, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE: Graphic sun-scorched action-film treatment of this same cafe: intense ochre golden light, cyan sky, hard bold contrast, warm dust haze in distance, centered readable silhouette, wind ruffling bob, gritty detailed surfaces. Keep original human outfit and location, no apocalypse props.",
+      "name": "Mad Max: Fury Road",
+      "zh": "炽热高反差",
+      "category": "大片 / 动作",
+      "features": "赭金色、青天空、强轮廓",
+      "file": "images/09-mad_max.png"
+    },
+    {
+      "index": 10,
+      "key": "mission_impossible",
+      "prompt": "Create ONE 9:16 vertical cinematic look sample: Mission Impossible. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially for the requested look, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE: Grounded espionage-thriller still at the same cafe: slightly oblique over-street angle, crisp natural hard side light, clean cool-neutral palette, strong spatial clarity and diagonal leading lines. Woman mid-purposeful step with alert sidelong glance. No weapons, no new gadgets.",
+      "name": "Mission Impossible",
+      "zh": "写实紧张感",
+      "category": "大片 / 动作",
+      "features": "斜向构图、硬光、动作清晰",
+      "file": "images/10-mission_impossible.png"
+    },
+    {
+      "index": 11,
+      "key": "top_gun",
+      "prompt": "Create ONE 9:16 vertical cinematic look sample: Top Gun: Maverick. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially for the requested look, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE: Golden-hour heroic fashion portrait: same woman/cafe, lower horizon and slightly low camera, strong honey-gold side/backlight, bronze highlights, clean cobalt sky, subtle lens bloom and wind in bob, radiant but realistic skin, bold clean silhouette. No aircraft or uniform.",
+      "name": "Top Gun: Maverick",
+      "zh": "金色英雄光",
+      "category": "大片 / 动作",
+      "features": "夕阳轮廓、暖肤色、开阔感",
+      "file": "images/11-top_gun.png"
+    },
+    {
+      "index": 12,
+      "key": "jurassic",
+      "prompt": "Create ONE 9:16 vertical cinematic fashion sample. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE DIRECTION: Layered environmental portrait photography. Same woman at the same cafe. Place soft out-of-focus plant leaves at foreground edge, the woman in the middle distance, and a deep cafe interior behind her. Cool dusk outside with warm pools of practical light inside. Eye-level calm composition and subtle curious glance toward the street.",
+      "name": "Spielberg / Jurassic Park",
+      "zh": "环境与惊奇",
+      "category": "大片 / 动作",
+      "features": "前景层次、环境尺度、反应",
+      "file": "images/12-jurassic.png"
+    },
+    {
+      "index": 13,
+      "key": "wes_anderson",
+      "prompt": "Create ONE 9:16 vertical cinematic look sample: Wes Anderson. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially for the requested look, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE: Recompose the same cafe as a perfectly frontal centered symmetrical cinematic tableau. Same woman exactly centered in doorway with same outfit, composed neutral expression. Carefully controlled dusty rose, mint, mustard and cream architectural palette, flat even light, crisp deep focus, rectilinear geometry, whimsical precise art direction. No titles.",
+      "name": "Wes Anderson",
+      "zh": "对称糖果色",
+      "category": "作者 / 情绪",
+      "features": "正中对称、粉彩、平直构图",
+      "file": "images/13-wes_anderson.png"
+    },
+    {
+      "index": 14,
+      "key": "wong_kar_wai",
+      "prompt": "Create ONE 9:16 vertical cinematic look sample: Wong Kar-wai (In the Mood). Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially for the requested look, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE: Intimate melancholy urban cinema: photograph same woman and cafe through a soft foreground window edge/reflection that partially obscures one side; asymmetrical mid-length composition, rich muted red interior and jade-green street shadows, warm isolated face highlight, gentle halation, textured grain, shallow focus, distant off-camera gaze. No smiling pose, no duplicated face; outfit retains recognizable cream/burgundy.",
+      "name": "Wong Kar-wai (In the Mood)",
+      "zh": "都市暧昧",
+      "category": "作者 / 情绪",
+      "features": "遮挡、红绿光、亲密留白",
+      "file": "images/14-wong_kar_wai.png"
+    },
+    {
+      "index": 15,
+      "key": "parasite",
+      "prompt": "Create ONE 9:16 vertical cinematic look sample: Bong Joon-ho (Parasite). Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially for the requested look, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE: Precise architectural social-drama still: same cafe, wider framing and deep focus, doorway threshold/steps and window frames divide foreground from interior, woman offset within geometric layers, muted olive-grey/cream palette, understated practical light, restrained realistic contrast, calm observational tension.",
+      "name": "Bong Joon-ho (Parasite)",
+      "zh": "空间叙事",
+      "category": "作者 / 情绪",
+      "features": "建筑线条、深景、克制色彩",
+      "file": "images/15-parasite.png"
+    },
+    {
+      "index": 16,
+      "key": "a24_horror",
+      "prompt": "Create ONE 9:16 vertical cinematic fashion sample. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE DIRECTION: Unsettling daylight arthouse horror still without horror content: same cafe in pale overcast daylight, static symmetrical-but-off-center composition, woman small against too much empty upper architecture, low saturation, sickly cool-neutral ambience, very subtle grain, deep quiet focus, neutral expression. No monsters, gore or distress.",
+      "name": "A24 Horror (Hereditary / Midsommar)",
+      "zh": "日常不安",
+      "category": "作者 / 情绪",
+      "features": "大留白、冷白光、静止感",
+      "file": "images/16-a24_horror.png"
+    },
+    {
+      "index": 17,
+      "key": "film_noir",
+      "prompt": "Create ONE 9:16 vertical cinematic fashion sample. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE DIRECTION: Classic monochrome film noir photograph of the same woman/cafe. True black-and-white with rich silver-grey midtones, directional hard light, strong diagonal shadow shapes through cafe window, deep blacks, wet pavement glints, three-quarter pose, crisp face with dramatic half-light. Preserve garment patterns/shape in grayscale, no colour tint.",
+      "name": "Classic Film Noir",
+      "zh": "经典黑白",
+      "category": "作者 / 情绪",
+      "features": "黑白、硬阴影、定向光",
+      "file": "images/17-film_noir.png"
+    },
+    {
+      "index": 18,
+      "key": "chinese_drama",
+      "prompt": "Create ONE 9:16 vertical cinematic fashion sample. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE DIRECTION: Contemporary Chinese urban romantic television-drama look: same model/outfit/cafe, clear flattering medium-full composition, clean warm-neutral colour, soft controlled face light, moderate depth of field, polished but believable everyday environment, gentle expectant expression, readable clothing.",
+      "name": "Chinese Drama (C-Drama)",
+      "zh": "都市剧质感",
+      "category": "剧集 / 浪漫",
+      "features": "干净人物、暖中性色、生活感",
+      "file": "images/18-chinese_drama.png"
+    },
+    {
+      "index": 19,
+      "key": "korean_drama",
+      "prompt": "Create ONE 9:16 vertical cinematic fashion sample. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE DIRECTION: Contemporary Korean romantic-drama visual treatment: same woman/cafe and outfit, soft luminous face light, cool pastel background and creamy peach highlights, gently blooming warm cafe bokeh, slightly closer flattering portrait composition with airy negative space, delicate wistful expression. Keep realistic skin.",
+      "name": "Korean Drama (K-Drama)",
+      "zh": "柔光浪漫",
+      "category": "剧集 / 浪漫",
+      "features": "奶油高光、柔焦散景、轻粉彩",
+      "file": "images/19-korean_drama.png"
+    },
+    {
+      "index": 20,
+      "key": "bollywood",
+      "prompt": "Create ONE 9:16 vertical cinematic fashion sample. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE DIRECTION: Richly coloured Indian popular-cinema fashion still: same woman and cafe in vibrant warm ruby/amber and teal surroundings, expressive pleased sidelong glance, graceful single-step pose and subtle fabric movement, glamorous directional soft light, bright colourful bokeh and romantic energy. No outfit change, no dance troupe.",
+      "name": "Bollywood Masala",
+      "zh": "浓彩情绪",
+      "category": "剧集 / 浪漫",
+      "features": "浓郁暖色、情绪、衣料动感",
+      "file": "images/20-bollywood.png"
+    },
+    {
+      "index": 21,
+      "key": "anime_live",
+      "prompt": "Create ONE 9:16 vertical cinematic fashion sample. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE DIRECTION: Live-action anime-inspired photographic treatment, still a real human photograph: graphic strong diagonals, vivid warm/cool colour separation, crisp outline lighting, deliberate dynamic stance, a slight low camera and dramatic perspective, moving bob and blouse edge, clean stylized composition. Same cafe and outfit; no cartoon rendering, no weapons.",
+      "name": "Anime Live-Action",
+      "zh": "漫画式真人",
+      "category": "特殊 / 质感",
+      "features": "图形构图、鲜明姿态、冷暖对比",
+      "file": "images/21-anime_live.png"
+    },
+    {
+      "index": 22,
+      "key": "kurosawa",
+      "prompt": "Create ONE 9:16 vertical cinematic fashion sample. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE DIRECTION: Classic black-and-white epic-cinema visual grammar in the same modern cafe: bold environmental wind and diagonal rain beyond shelter, layered deep-focus space, strong graphic contrast, woman firmly grounded in a still purposeful pose under doorway, luminous rain against dark street. Same contemporary outfit, no swords or historical costume.",
+      "name": "Kurosawa / Samurai Epic",
+      "zh": "风雨调度",
+      "category": "作者 / 情绪",
+      "features": "风雨、深层空间、硬朗黑白",
+      "file": "images/22-kurosawa.png"
+    },
+    {
+      "index": 23,
+      "key": "tiktok_ugc",
+      "prompt": "Create ONE 9:16 vertical cinematic fashion sample. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE DIRECTION: Authentic casual smartphone UGC photograph: same woman outfit cafe, eye-level handheld-feeling medium-full framing, natural available daylight, broad depth of field, ordinary realistic exposure and unretouched texture, friendly direct glance, slight imperfect off-centre composition. No film grading, heavy bokeh or glamour lighting.",
+      "name": "TikTok / Viral UGC",
+      "zh": "手机生活感",
+      "category": "社媒 / 写实",
+      "features": "近距离、广景深、自然曝光",
+      "file": "images/23-tiktok_ugc.png"
+    },
+    {
+      "index": 24,
+      "key": "iphone_cinematic",
+      "prompt": "Create ONE 9:16 vertical cinematic fashion sample. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE DIRECTION: Modern smartphone cinematic-mode photograph: same cafe/model/outfit, natural colours and balanced computational-style exposure, eye-level three-quarter view, woman in sharp focus with clean gently blurred cafe background, modest optical-looking bokeh, natural skin texture, no exaggerated colour grade.",
+      "name": "iPhone Cinematic Mode",
+      "zh": "手机电影模式",
+      "category": "社媒 / 写实",
+      "features": "自然肤色、主体清晰、浅景深",
+      "file": "images/24-iphone_cinematic.png"
+    },
+    {
+      "index": 25,
+      "key": "music_video_rap",
+      "prompt": "Create ONE 9:16 vertical cinematic fashion sample. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE DIRECTION: Urban hip-hop music-video still: same adult woman/outfit/cafe, assertive grounded pose, low wide-angle camera, bold saturated red/blue practical lighting, crisp flash-like foreground detail, deep dark surroundings, large architectural colour blocks and rhythmic diagonals. No jewelry additions, no text or hand signs.",
+      "name": "Hip-hop / Rap Music Video",
+      "zh": "街头 MV",
+      "category": "音乐 / 运动",
+      "features": "低广角、强色块、表演姿态",
+      "file": "images/25-music_video_rap.png"
+    },
+    {
+      "index": 26,
+      "key": "kpop_mv",
+      "prompt": "Create ONE 9:16 vertical cinematic fashion sample. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE DIRECTION: High-end K-pop music-video art direction adapted to this same cafe: exceptionally clean composition, polished mint/pink/lavender accent lights, luminous neutral face light, crisp garment detail, shiny controlled highlights, poised performance-ready stance. Realistic face, same outfit and cafe; no stage replacement or extra people.",
+      "name": "K-Pop Music Video",
+      "zh": "精致流行 MV",
+      "category": "音乐 / 运动",
+      "features": "糖果光、整洁构图、通透细节",
+      "file": "images/26-kpop_mv.png"
+    },
+    {
+      "index": 27,
+      "key": "sports_espn",
+      "prompt": "Create ONE 9:16 vertical cinematic fashion sample. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE DIRECTION: Professional sports-broadcast camera aesthetic applied to same woman walking briskly past cafe doorway: eye-level telephoto feel, crisp fast-shutter frozen stride, realistic daylight white balance, deep readable shadows, compressed background, practical sharp detail and athletic energy. Same blouse/trousers/bag, no sports uniform, no logos or graphics.",
+      "name": "Sports / ESPN Broadcast",
+      "zh": "运动转播",
+      "category": "音乐 / 运动",
+      "features": "高速定格、长焦、清晰动作",
+      "file": "images/27-sports_espn.png"
+    },
+    {
+      "index": 28,
+      "key": "anamorphic",
+      "prompt": "Create ONE 9:16 vertical cinematic fashion sample. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE DIRECTION: Anamorphic cinema optical look adapted to a 9:16 frame with NO black bars: same woman cafe outfit, dimensional portrait, subtle horizontal blue-gold lens flare from practical lights, oval defocused bokeh, gentle edge falloff and slight optical softness, cinematic highlight rolloff. Maintain the vertical output and realistic geometry.",
+      "name": "Anamorphic Widescreen",
+      "zh": "变形宽银幕光学",
+      "category": "特殊 / 质感",
+      "features": "横向耀斑、椭圆散景、纵深",
+      "file": "images/28-anamorphic.png"
+    },
+    {
+      "index": 29,
+      "key": "documentary",
+      "prompt": "Create ONE 9:16 vertical cinematic fashion sample. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE DIRECTION: Unstaged cinéma-vérité documentary street photograph: same woman/outfit/cafe, candid gaze toward street rather than lens, imperfect observational framing from a few steps away, available overcast light, muted true-to-life colours, fine organic grain, broad environmental detail and realistic skin. No glamour retouch or conspicuous artificial light.",
+      "name": "Documentary / Cinéma Vérité",
+      "zh": "观察纪录片",
+      "category": "社媒 / 写实",
+      "features": "现场光、抓拍、真实肌理",
+      "file": "images/29-documentary.png"
+    },
+    {
+      "index": 30,
+      "key": "vintage_8mm",
+      "prompt": "Create ONE 9:16 vertical cinematic fashion sample. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE DIRECTION: Convincing scanned vintage Super 8 colour film still of same woman/outfit/cafe: pronounced fine organic film grain, soft detail and gentle halation, warm faded amber highlights, subdued reds, slight colour instability and nostalgic contrast. Single clean image without frame borders, text or excessive damage.",
+      "name": "Vintage Super 8mm",
+      "zh": "复古胶片",
+      "category": "特殊 / 质感",
+      "features": "颗粒、柔反差、暖色褪色",
+      "file": "images/30-vintage_8mm.png"
+    },
+    {
+      "index": 31,
+      "key": "vhs_retro",
+      "prompt": "Create ONE 9:16 vertical cinematic fashion sample. Use reference to preserve same adult woman with bob, cream blouse, burgundy wide-leg trousers, black shoulder bag and recognizable tiled corner cafe. Recompose and relight substantially, keeping identity and outfit. No collage, labels, text, logos or watermark. STYLE DIRECTION: Authentic 1990s VHS camcorder frame of same woman/outfit/cafe: consumer-video soft resolution, slight horizontal chroma bleed, mild scanline texture, lifted blacks, clipped practical highlights, greenish warm white balance and faint analog noise. Keep facial features readable. No date stamp, overlay, border or giant glitch.",
+      "name": "VHS / Retro 90s",
+      "zh": "90年代录像",
+      "category": "特殊 / 质感",
+      "features": "低清、色彩溢出、磁带质感",
+      "file": "images/31-vhs_retro.png"
+    }
+  ]
+}

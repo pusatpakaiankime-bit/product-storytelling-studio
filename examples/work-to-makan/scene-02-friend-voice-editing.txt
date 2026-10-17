@@ -1,0 +1,11 @@
+POST-PRODUCTION AUDIO CUE — NOT PART OF VIDEO GENERATION PROMPT
+
+Scene 2 is an 8-second clip.
+Add a separate female friend's off-screen voice at 0.3–1.0 seconds:
+Jom makan!
+
+Language: natural Malaysian Malay. Delivery: casual invitation from the office doorway, short and friendly. Use a distinguishable voice from the visible protagonist. Friend remains unseen.
+The protagonist's mouth stays closed throughout the invitation. Her listening reaction begins at about 1.1 seconds; ONLY she says Dekat mana?! from about 1.6 seconds.
+Do not overlap the two lines. If actual synthesized or recorded cue duration differs, trim the silence or adjust its placement so the invitation ends before her response.
+
+Production status: cue text and timing only; audio not generated or mixed yet.

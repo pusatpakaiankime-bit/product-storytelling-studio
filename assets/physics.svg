@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="720" viewBox="0 0 1500 720">
+<rect width="1500" height="720" rx="24" fill="#101a23"/>
+<g font-family="Microsoft YaHei, sans-serif"><text x="55" y="75" font-size="36" fill="#f0eee4">衣服形态，取决于抓握点与实际支撑</text>
+<rect x="45" y="115" width="675" height="500" rx="20" fill="#24313a"/><rect x="765" y="115" width="690" height="500" rx="20" fill="#24313a"/>
+<text x="80" y="175" font-size="27" fill="#d8ed9b">单点提拿：自由布料向下垂</text>
+<circle cx="360" cy="245" r="18" fill="#d8ed9b"/><path d="M360 260 Q300 320 280 395 L250 500 Q335 535 435 505 L415 390 Q400 315 360 260Z" fill="#5a758b" stroke="#b8c7cf" stroke-width="4"/>
+<path d="M360 270 Q350 370 330 495 M360 270 Q370 370 390 495" fill="none" stroke="#b8c7cf" stroke-width="4"/>
+<path d="M510 300 V465 M495 445 L510 470 L525 445" fill="none" stroke="#d8ed9b" stroke-width="5"/>
+<text x="80" y="575" font-size="23" fill="#bdc7c8">抓握点提供支撑，其余部分受重力影响</text>
+<text x="800" y="175" font-size="27" fill="#d8ed9b">两点支撑：展开处有明确受力点</text>
+<circle cx="920" cy="255" r="17" fill="#d8ed9b"/><circle cx="1300" cy="255" r="17" fill="#d8ed9b"/>
+<path d="M920 270 Q1100 315 1300 270 L1280 485 Q1110 520 945 485Z" fill="#5a758b" stroke="#b8c7cf" stroke-width="4"/>
+<path d="M1000 290 Q1010 390 990 485 M1110 305 V505 M1215 292 Q1200 390 1230 488" fill="none" stroke="#b8c7cf" stroke-width="4"/>
+<text x="800" y="575" font-size="23" fill="#bdc7c8">展开不代表悬空：两端支撑，中部仍有垂坠</text>
+<text x="55" y="675" font-size="23" fill="#bdc7c8">示意图：具体垂感随结构、支撑与动作变化；不代表某件商品的面料性能。</text></g></svg>
+
