@@ -1,4 +1,4 @@
 interface:
   display_name: "商品故事分镜 Studio"
-  short_description: "商品与模特参考图生成完整故事、分镜、对白和图片视频提示词，检查商品事实与画面连续性"
-  default_prompt: "使用 $product-storytelling-studio，根据我的商品图和模特图生成有情节的短视频故事、逐幕分镜、对白及图片和视频提示词。"
+  short_description: "商品与模特参考图生成故事、分镜、首帧图片、视频提示词和文案"
+  default_prompt: "使用 $product-storytelling-studio，根据我的商品图和模特图先写故事与分镜，再生成各幕首帧图片，根据实际出图写视频提示词，最后写Caption。"
