@@ -82,7 +82,7 @@ python scripts/install.py --dest "/absolute/path/to/skills/product-storytelling-
 先不要生成媒体，告诉我当前带货语气、画面默认值和交付内容。
 ~~~
 
-应能读取到：版本v1.1.0；带货默认高能兴奋；人物、背景、皮肤为Realistic；完整任务按故事、分镜、实际首帧图、基于出图的视频提示词、最后Hook Caption的顺序交付。不同任务可以明确覆盖这些默认值。
+应能读取到：版本v1.1.1；带货默认高能兴奋；人物、背景、皮肤为Realistic；完整任务按故事、分镜、实际首帧图、基于出图的视频提示词、最后Hook Caption的顺序交付。不同任务可以明确覆盖这些默认值。
 
 ## 卸载
 
